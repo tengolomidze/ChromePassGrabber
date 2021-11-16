@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+   
+    background-color: #000000;
+}
+html, body {
+    
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+h1{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 50%;
+    left: 50%;
+    font-family: 'Akronim', cursive;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+}
+
+#video{
+    position: absolute;
+    top: 0%;
+    background-color: aliceblue;
+}
+/*
+#I1{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    border: none;
+    background-color: #000000;
+    color: white;
+    border-radius: 30px;
+}
+#I2{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    border: none;
+    background-color: #000000;
+    color: white;
+    border-radius: 30px;
+    margin-top: 80px;
+}
+#I3{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    border: none;
+    background-color: #000000;
+    color: white;
+    border-radius: 30px;
+    margin-top: 190px;
+}
+#I4{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    border: none;
+    background-color: #000000;
+    color: white;
+    border-radius: 30px;
+    margin-top: 280px;
+}
+
+#h1N1{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 1%;
+    right: 1%;
+    font-size: 18px;
+    border: none;
+  
+    color: white;
+    border-radius: 30px;
+    
+}
+
+#h1N2{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 1%;
+    right: 1%;
+    font-size: 13px;
+    border: none;
+    
+    color: white;
+    border-radius: 30px;
+    margin-top: 90px;
+}
+
+#h1N3{
+    position: absolute;
+    z-index: 1;
+    width: 250px;
+    font-family: 'Akronim', cursive;
+    top: 1%;
+    right: 1%;
+    font-size: 12px;
+    border: none;
+    
+    color: white;
+    border-radius: 30px;
+    margin-top: 180px;
+}
+
+#h1N4{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 1%;
+    right: 1%;
+    font-size: 18px;
+    border: none;
+   
+    color: white;
+    border-radius: px;
+    margin-top: 280px;
+}
+
+#h1N5{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 1%;
+    right: 1%;
+    font-size: 18px;
+    border: none;
+   
+    color: white;
+    border-radius: px;
+    margin-top: 390px;
+    margin-right: 60px;
+    width: 100px;
+}
+
+#C1{
+    position: absolute;
+    z-index: 1;
+    
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    
+    background-color: #000000;
+    color: white;
+    color: black;
+    margin-top: 360px;
+    height: 50px;
+    width: 50px;
+}
+
+#B1{
+    position: absolute;
+    z-index: 2;
+    font-family: 'Akronim', cursive;
+    top: 6%;
+    right: 1%;
+    font-size: 25px;
+    border: none;
+    border-radius: 30px;
+    color: black;
+    margin-top: 430px;
+    
+}
+
+*/
